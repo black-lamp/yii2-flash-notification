@@ -1,2 +1,2 @@
 # yii2-flash-notification
-Flach notifications for yii framework 2
+Flash notifications for yii framework 2 based on toastr
